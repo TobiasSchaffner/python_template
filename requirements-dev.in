@@ -1,0 +1,10 @@
+-r requirements.in
+
+black
+license-header-check
+mypy
+pytest
+pytest-cov
+Sphinx
+tox
+wemake-python-styleguide
